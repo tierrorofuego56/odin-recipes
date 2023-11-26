@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Greek-Freak";
+    src: url("/font/greek-freak-webfont.woff") format("woff");
+    src: url("/font/greek-freak-webfont.woff2") format("woff"),
+    }
+
+body{
+    margin: 0 auto;
+    background: linear-gradient(#a47efc, #130e1f);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Greek-Freak', serif;
+    font-size: 15px;
+}
+
+li{
+    list-style: none;
+    padding: 5px;
+    color: white;
+}
+
+
+#title{
+    color: #ded22c;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.project{
+    height: 50px;
+    width: 200px;
+    border: 5px solid yellow;
+}
+
+.container{
+    text-align: center;
+}
+.logo{
+    display: block;
+    border:  5px solid gold;
+    border-radius: 15px;
+}
+
+.design{
+    margin: 0 auto;
+}
