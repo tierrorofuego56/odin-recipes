@@ -1,0 +1,46 @@
+body{
+    margin: 0 auto;
+    background: linear-gradient(#a47efc, #130e1f);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'GFS Didot', serif;
+}
+
+i, li{
+    color: white;
+    font-weight: 500;
+}
+
+h1, h2{
+    color: gold;
+    font-weight: bolder;
+    font-family: 'GFS Didot', serif;
+}
+
+.float{
+    border: 5px solid yellow;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.center{
+    float:center;
+}
+
+.review{
+    height: 360px;
+    width: 340px;
+    display: inline-block;
+}
+
+.center, .review{
+    text-align: center;
+}
+
+.cloud{
+    margin-top: -50px;
+}
