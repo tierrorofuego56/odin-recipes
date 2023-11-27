@@ -1,16 +1,10 @@
-@font-face {
-    font-family: "Greek-Freak";
-    src: url("/font/greek-freak-webfont.woff") format("woff");
-    src: url("/font/greek-freak-webfont.woff2") format("woff"),
-    }
-
 body{
     margin: 0 auto;
     background: linear-gradient(#a47efc, #130e1f);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: 'Greek-Freak', serif;
+    font-family: 'GFS Didot', serif;
     font-size: 15px;
 }
 
